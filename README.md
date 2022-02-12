@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arghyajony
+- 👋 Hi, I’m Arghya
 - 👀 I’m interested in robotics, machine learning and AI
 - 🌱 I’m currently learning ROS, OpenCV and PCL
 - 💞️ I’m looking to collaborate on ...
